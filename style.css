@@ -1,0 +1,56 @@
+
+
+.heading{
+ font-size: 20px;  
+ width: 100%; 
+ margin: 0px;
+ box-shadow: 5px 5px 5px rgba(196, 234, 46, 0.393) ;
+}
+.heading_div{
+    
+    color: rgb(94, 14, 8);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(150, 13, 91);
+    padding: 10px;
+    float: none;
+}
+
+.heading_div2{
+    
+    font-size: 15px;
+}
+.heading_div3{
+    
+    font-size: 15px;
+}
+.test_image_and_result{
+    background-color: rgb(191, 181, 69);
+    font-size: 15px;
+    float: none;
+}
+img{
+    width: 10%;
+    height: 10%;
+}
+.copy_right_footer{
+    position: fixed;
+    color: rgb(148, 11, 11);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(34, 224, 104);
+    text-align: center;
+    line-height: 3;
+    font-weight: bold;
+}
+canvas{
+    margin-top: 850px;
+    border-radius: 20px;
+    border: 5px solid rgb(104, 36, 11);
+    box-shadow: 5px 5px 5px rgb(69, 16, 192);
+}
+.mini_result{
+    background-color: rgb(85, 164, 164);
+    font-size: 20px;
+    font-weight: bold;
+}
+
